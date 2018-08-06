@@ -244,6 +244,11 @@ enableGitInfo = true
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/alxgue"
+    
+  [[params.social]]
+    icon = "stack-overflow"
+    icon_pack = "fa"
+    link = "//stackoverflow.com/users/2284005/caffeineconnoisseur"
   
   [[params.social]]
     icon = "quora"
