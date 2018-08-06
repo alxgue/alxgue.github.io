@@ -37,5 +37,11 @@ weight = 5
 +++
 
 # Biography
+NOTE: THIS PAGE IS UNDER CONSTRUCTION!
+
+Much of the content currently on this page is left over from template values.
+Anything that says "GA Cushen" or "MS Nixon" is obviously not by Alex Guerra.
+(So far only this section has been updated, but more updates to come soon)
+
 TODO: Write a biography :)
  
