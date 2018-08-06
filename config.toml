@@ -245,7 +245,7 @@ enableGitInfo = true
     icon_pack = "fa"
     link = "//github.com/alxgue"
   
-  [[parapms.social]]
+  [[params.social]]
     icon = "quora"
     icon_pack = "fa"
     link = "//quora.com/profile/Alex-Guerra-4"
