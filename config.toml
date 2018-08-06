@@ -238,7 +238,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "linkedin"
     icon_pack = "ai"
-    link = "https://www.linkedin.com/in/alxgue/"
+    link = "//www.linkedin.com/in/alxgue/"
 
   [[params.social]]
     icon = "github"
