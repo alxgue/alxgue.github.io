@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Alex Guerra's Resume"
 author: "Alex Guerra"
 date: "August 12, 2018"
 output: pdf_document
@@ -9,22 +9,180 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Objective
+I want to find a way to combine my fascination with system-scale processes with large-scale data analysis in order to elucidate and examine patterns in natural systems. I have a deep interest in ecological dynamics, environmental change, and in combining my interest in data analysis and programming with the study of ecological problems in order to model Ecological systems based on collected data. I constantly seek to expand my skills, pursue my interests, and eternally seek a more precise understanding of how natural systems work and can be quantified.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+# Education
+2010 Bachelor of Science, Aquatic Biology.
+University of California Santa Barbara
 
-```{r cars}
-summary(cars)
-```
+## Certifications
+2013 Certificate of Front-End Web Design
+Pierce College
 
-## Including Plots
+2013 Base SAS Certification
+SAS institute
 
-You can also embed plots, for example:
+# Accomplishments
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Personal
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+- Acquired my Bachelors degree after 3.5 years of study
+- Obtained a certificate in front-end Web design after 1 year of study, and working on getting a certification on Back-End Web Design as well
+- Used knowledge attained of web-design principles to set up, configure, and build pages for my own home server where I showcase examples of my work at http://apgplanner.com
+- Learned image, video, and sound editing from taking classses
+- Taught myself Actionscript 2.0 and 3.0 in order to make a couple of simple Flash games.
+- Obtained a CPR card and EMT-Basic certification in the summer of 2010
+
+## Academic
+
+- Spent a lot of time volunteering and working in various labs as a lab assistant. Worked in a diverse range of settings: Cancer research, ecological analyses of of invertebrate recruitment numbers, limnological equipment assembly, data wrangling, and data visualization.
+- Processed data for Arctic LTER Toolik Lake Primary Productivity, Inorganic Matter, and Organic Matter datasets in Excel, which involved collecting 50 years of data from 50 individual files, all with different formats and varying in metrics tracked. Methodically standardized their formats, then combined them into a single, uniform 40,000 row table, all manually in Excel.
+- Since processing the Arctic LTER data I have learned to catalog metadata on files and utilize that metadata in order to organize the approach to data processing and analysis. I learned the use of XML as well as database-oriented approaches to data tracking and hosting.
+- Took a number of classes at UCSB that approximated ecological research experience, (specifically the EEMB 142 series) including studying ecological systems and processes, then learning about specific lab and field techniques, then going into the field to set up experiments, then at a later time collecting the experiments, processing samples in the lab, collecting data from the experiments, then performing statistical analysis on the numbers to evaluate whether the analysis of variance was “significant”, generating graphs to illustrate the data, and writing full-length papers in the style of journal articles, or even presenting the results to our classmates. These classes focused on the water systems of Santa Barbara and Goleta.
+- Took a handful of classes similar to the above under Raymond Wells at Pierce College with a lot of the same approach and process, except in  San Pedro, CA, Ensanada,  Baja California, and Bahia de Los Angeles, Baja California on day trips, weekend trips, or one full two week long immersive research experience. Kept research notebooks, attended daily lectures, designed and executed field experiments, and wrote papers. I passed every field, lab, and lecture class offered, with the exception of the Oceanography classes. 
+- More specific info can be found here: http://pcmsusa.org/marbio2.html
+- Was told in passing by Dr Wells that my understanding of Aquatic Biology/Ecology was at the level of a Masters student.
+- Currently scheduled to act as a TA on Dr Wells’ 2015 2-week summer class
+
+## Professional
+
+- Used video production/editing skills to self-produce a series of screencaptured video-tutorials in order to enhance the company’s new-hire trianing program using Camtasia.
+- Later recruited and managed an internal team to take over video production.
+- Taught myself R when it was requested of me by my previous employer and managed to improve upon an existing application.
+- Taught myself SAS for another employer, and went as far as getting officially certified in Base SAS.
+- Helped improve and expand company SAS code to be more broadly useful as well as more efficient.
+- Created a large library of Linux commandline scripts that automate a large degree of data wrangling tasks, such as using regular expressions to remove invisible characters, automate repeated steps in my workflow, analyze data content and contextually clean up data based on the column type detected. Such scripts automated a huge percentage of my day-to-day workflow.
+- Assessed my department’s current workflow processes and abstracted them enough to generalize the steps involved, then put together an algorithm description to demonstrate the current steps in process along with my own intuitively-designed approach. Demonstrated the efficacy of the changes needed and illustrated work savings involved in adopting my proposed workflow changes. Revolutionized our approach to data processing.
+- Spearheaded an initiative to document current processes, methods for solving generalized problems, and “tips and tricks” for various applications, languages, and problem types.
+- Created custom intranet web-application to track metadata on undocumented code, including explanatory information, usage information, specific dependencies between scripts, and managed workload with one other programmer.
+- Made numerous software and configuration suggestions to our Linux administrator and frequently did research to find new existing programs that could solve current workflow problems in order to expedite workflow and increase automation.
+- Suggested and provided support for the set up of an intranet Wiki based on MediaWiki within which I created a number of step-by step text  and image tutorials for how to use Linux as well as a number of other topics. These tutorials helped train some team members.
+- Successfully trained/tutored several new employees in order to bring them up to speed, develop technical skills, and pass certification exams.
+
+# Skills
+
+## General
+
+- Positive attitude, self starter, seeks opportunities for improvement
+- Skilled at breaking down complex problems and devising solutions
+- Experience in training and tutoring others
+- Experience in documenting work and creating training materials
+- Very effective at communication, coordination, and writing
+- Very effective interpersonal skills and diplomatic approach
+- Driven to develop important and useful skills
+- Works well alone or in a team, can prioritize tasks and delegate
+- A desire to learn and get involved in research
+- Organized and methodical approach to routine problems
+- Certified American Heart Association CPR card holder
+- Nationally registered Emergency Medical Technician
+- Experience setting up presentation equipment
+- A knack for minor mechanical repairs
+- Fast learner of computer software, and programming languages
+- Skilled at reading and interpreting code from others for reuse
+
+## Research/Lab Skills
+
+- Motivated to come up with means to test concepts in the lab
+- Attention to detail when following experimental procedures
+- Knowledgable of various data collection methods
+- Interested in experimental design approaches and considerations
+- Much snorkeling experience and several SCUBA dives
+- Use of dissolved oxygen meters, water sampling equipment, spectrophotometers, conductivity meters, plankton towing equipment.
+- Skilled with a microscope, dissection scope, and binoculars
+- A deep desire to comprehensively understand natural systems
+- Experienced with sterile technique, if required
+- Have used Qiagen kits to isolate DNA and RNA from tissue and blood samples
+- Maintenance of cell cultures in a lab setting
+- Setup and take down of ecological field experiments
+- Much previous use of various chemistry equipment
+- Various lab techniques for measurement, sample handling, data recording, and lab safety
+- Careful handling of sensitive samples in the field and lab
+- Accurate pipetting with mechanical and electronic pipettes
+- Skilled with dissection equipment and cautious to prevent damage
+- Use of EndNote and EndNote Web to collect and organize articles
+- Highly skillful with advanced Google search parameters
+- Experience processing and summarizing huge volumes of data
+- Quick and efficient use of Google Scholar and Web of Science
+- Using DOIs to record and look up specific articles
+- Use of dichotomous keys to identify fish species on the fly
+- Very interested in statistical analysis of data
+- Very interested in learning about computer models for complex systems
+- Very interested in learning about data mining and/or data science
+- Use of CPCe software to identify coral species in transect images
+
+## Computer Skills
+
+- Intermediate/Advanced use of Mac, Windows, and Linux
+- Office software (Excel, Word, PowerPoint, etc.)
+- Complex Excel functions for analysis, QA, or calculations
+- Designing highly descriptive graphs to understand data
+- Analyzing data for various abnormalities and apparent patterns
+- Linux/Unix command line use and configuration
+- Extensively use and customize VIM plain text editor
+- Use of command line scripts to automate and simplify work using bash, awk, and sed to build a custom library of scripts.
+- Use of existing Python and Perl scripts within a larger process, though I’m still learning Python and Perl
+- Design and implementation of automation algorithms that can reduce rework required to accomplish similar tasks in the future
+- Administrate home LAMP server http://apgplanner.com
+- Edit XML, CSS, HTML, XHTML, PHP, Javascript, and JQUERY code in plain text, but can use Dreamweaver if needed
+- Construction of XML documents following specific schema
+- Designing and creating complex database-driven web applications using a LAMP stack (Linux, Apache, MySQL, and PHP)
+- Normalizing tabular data and relational database tables
+- Designing and implementing complex relational database structures in order to support the needs of complex applications
+- Use of MySQL to design, load, read, and cross reference data
+- Maintaining and updating data within database tables
+- Use of Microsoft Access for small-scale database use-cases
+- Adobe Premier, Audacity, GarageBand, and Acoustica Mixcraft to edit video and sound, and write custom MIDI music
+- Camtasia to create tutorial videos through screencasts, voiceovers, and editing audio and video
+- Use of Flash and Actionscript 2.0 and 3.0 to create graphics, movies, games, and interactive applications
+- SURFER contouring and 3D surface mapping software to represent complex data succinctly
+- Organized and systematic set up of directory structures and backup of work files
+- Previously utilized, but now infrequently use C++, Java, and R
+- Photoshop, Illustrator, InDesign, and other Adobe Creative suite software to edit images
+- 3D modeling and animation software such as Bryce, Poser, and Cinema 4D
+
+# Work History
+
+MarketShare
+Associate Data Specialist
+Santa Monica, CA
+03/13 - present
+Manipulating, organizing, and standardizing data. Performing data/code QA against requirements and historic data. SAS scripts and macros, but also bash, awk, MySQL, PHP and Javascript. Automating day-to-day tasks by generalizing code and including in automated workflow. Automating scanning, cleanup, extraction, transformation, and loading of data with scripts. Working to incorporate and utilize legacy code. Fully planning and creating from scratch a database-driven web application for code metadata tracking. Creation of written technical tutorials including screenshots and references. Creation of video tutorials. Coordination of documentation efforts. Active participation in high-level process planning meetings to improve company-wide data efficiency.
+
+MCR/SBC LTER
+Assistant Specialist
+Santa Barbara, CA
+01/11 - 01/12
+Learned a great deal about what goes into  a database driven website, that xml and xslt can create extensible templates to organize the content of a website, and a great deal about effective practices for using simple Linux scripts to execute basic data-wrangling tasks and increase overall productivity. Used Excel and complex formulas to accomplish a number of data collection, analysis, and visualization tasks. Learned the basics of Linux command line operations and how to use basic SQL to load data into a database. Learned a lot about data wrangling, cleanup, and manipulation. Worked to generate metadata to describe scientific datasets and helped lay out an XML template for phylogenetic listings. Also assisted with some lab work when workload was light.
+
+MacIntyre Lab
+Lab Technician I
+Santa Barbara, CA
+05/10 - 12/10
+Limnology/Hydrology lab. Learned a great deal about the day to day needs of a physical science research lab. Participated in construction of field equipment and programming thermisters. Spent the majority of my time reorganizing and standardizing datasets from the past 50 years to the present , figuring out the most effective means by which to convey the data through SURFER 3-dimensional contour plots, and editing or re-creating the plots as requested by Dr. MacIntyre.
+
+Barronsgate Events +
+Trancas Riders and Ropers
+Competition Ring Steward
+Malibu, CA
+2007 - 2012
+Time management and coordination and execution of events down to the minute, flexibly dealing with situational issues from competitors/the office/the weather, checking riding equipment, monitoring for proper procedure. Being self-directed in times where the main office is swamped with activity and time-sensitive decisions need to be made. Also acted as ring steward during 2009 DASC championships.
+
+PISCO
+Lab Volunteer
+Santa Barbara, CA
+10/09 - 03/10
+Participated in ecological research. Helped process invertebrate recruitment samples and handled  lab and field equipment. Helped in the field setting up and taking down experiments. Gained a first hand knowledge of many lab and field procedures and techniques. Volunteered to help with field experiments along the California coast as well as the Channel Islands.
+
+Jules Stein Eye Institute
+Lab Assistant
+Los Angeles, CA
+06/08 - 09/08
+Participated in cancer research. Helped process samples and handled  lab equipment. Learned how to maintain cell cultures, practice sterile technique, isolate RNA and DNA, and use a spectrophotometer to check RNA purity. Gained a first hand knowledge of many general lab procedures and techniques.
+
+Dr. Pattee
+Computer Animator
+Agoura Hills, CA
+03/05 - 04/05
+Assisted in creating a training program for the use and interpretation of medical ultrasound scanners. Created CGI movies illustrating proper use of the equipment and an illustration of sample scans taken from each scanning position. Learned the process of interviewing a client to gather specific project details, working up a product, and then meeting to evaluate desired changes to the product.
