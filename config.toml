@@ -234,6 +234,11 @@ enableGitInfo = true
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:alxgue@gmail.com"
+    
+  [[params.social]]
+    icon = "file-text"
+    icon_pack = "fa"
+    link = "resume"
 
   [[params.social]]
     icon = "linkedin"
